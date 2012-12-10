@@ -1,0 +1,11 @@
+MIDlet-1: CM-Sender,/cm.png,screen.Sender
+MIDlet-Data-Size: 10000
+MIDlet-Description: Mobile Search Location
+MIDlet-Info-URL: http://neo-nevz.com/cm-locator
+MIDlet-Jar-Size: 722049
+MIDlet-Jar-URL: SENDER-V-4.1.3.jar
+MIDlet-Name: SENDER-V-4.1.3 CM-Locator
+MIDlet-Vendor: Neo-Nevz.inc
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
